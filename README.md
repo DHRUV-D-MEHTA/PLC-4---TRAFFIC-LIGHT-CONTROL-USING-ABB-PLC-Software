@@ -96,6 +96,8 @@ T3 Done → Return to T1
 
 
 ## Output
+<img width="1915" height="1032" alt="image" src="https://github.com/user-attachments/assets/3af32f8a-1316-499e-8e1e-956bfc712669" />
+<img width="1915" height="1032" alt="image" src="https://github.com/user-attachments/assets/80394566-ceae-40ca-b406-76cb6b83cc2c" />
 
 
 
